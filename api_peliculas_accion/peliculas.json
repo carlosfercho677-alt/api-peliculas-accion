@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "John Wick",
+        "director": "Chad Stahelski",
+        "anio": 2014,
+        "genero": "Acción",
+        "duracion_min": 101
+    },
+    {
+        "id": 2,
+        "titulo": "Mad Max: Fury Road",
+        "director": "George Miller",
+        "anio": 2015,
+        "genero": "Acción y ciencia ficción",
+        "duracion_min": 120
+    },
+    {
+        "id": 3,
+        "titulo": "Top Gun: Maverick",
+        "director": "Joseph Kosinski",
+        "anio": 2022,
+        "genero": "Acción y drama",
+        "duracion_min": 130
+    },
+    {
+        "id": 4,
+        "titulo": "El caballero oscuro",
+        "director": "Christopher Nolan",
+        "anio": 2008,
+        "genero": "Acción y crimen",
+        "duracion_min": 152
+    },
+    {
+        "id": 5,
+        "titulo": "Nadie",
+        "director": "Ilya Naishuller",
+        "anio": 2021,
+        "genero": "Acción y thriller",
+        "duracion_min": 92
+    }
+]
